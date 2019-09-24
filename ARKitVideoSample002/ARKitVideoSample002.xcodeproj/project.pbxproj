@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		741AD305231ECA6100633F84 /* MikaRika.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 741AD304231ECA6100633F84 /* MikaRika.mp4 */; };
 		74F2ED652312802200ABDA38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F2ED642312802200ABDA38 /* AppDelegate.swift */; };
-		74F2ED672312802200ABDA38 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 74F2ED662312802200ABDA38 /* art.scnassets */; };
 		74F2ED692312802200ABDA38 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74F2ED682312802200ABDA38 /* ViewController.swift */; };
 		74F2ED6C2312802200ABDA38 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74F2ED6A2312802200ABDA38 /* Main.storyboard */; };
 		74F2ED6E2312802400ABDA38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74F2ED6D2312802400ABDA38 /* Assets.xcassets */; };
@@ -21,7 +20,6 @@
 		741AD304231ECA6100633F84 /* MikaRika.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = MikaRika.mp4; sourceTree = "<group>"; };
 		74F2ED612312802200ABDA38 /* ARKitVideoSample002.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitVideoSample002.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F2ED642312802200ABDA38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		74F2ED662312802200ABDA38 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		74F2ED682312802200ABDA38 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		74F2ED6B2312802200ABDA38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		74F2ED6D2312802400ABDA38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 				741AD304231ECA6100633F84 /* MikaRika.mp4 */,
 				74F2ED7823128A2B00ABDA38 /* Shaders.metal */,
 				74F2ED642312802200ABDA38 /* AppDelegate.swift */,
-				74F2ED662312802200ABDA38 /* art.scnassets */,
 				74F2ED682312802200ABDA38 /* ViewController.swift */,
 				74F2ED6A2312802200ABDA38 /* Main.storyboard */,
 				74F2ED6D2312802400ABDA38 /* Assets.xcassets */,
@@ -131,7 +128,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74F2ED672312802200ABDA38 /* art.scnassets in Resources */,
 				74F2ED712312802400ABDA38 /* LaunchScreen.storyboard in Resources */,
 				741AD305231ECA6100633F84 /* MikaRika.mp4 in Resources */,
 				74F2ED6E2312802400ABDA38 /* Assets.xcassets in Resources */,

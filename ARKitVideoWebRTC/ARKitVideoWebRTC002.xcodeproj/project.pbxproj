@@ -3,13 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		2DF2D95C198776373CDAA67E /* Pods_ARKitVideoWebRTC002.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BD61AB98AC8FE1F8D90F2D4 /* Pods_ARKitVideoWebRTC002.framework */; };
 		74A601302320305D003AA56C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A6012F2320305D003AA56C /* AppDelegate.swift */; };
-		74A601322320305D003AA56C /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 74A601312320305D003AA56C /* art.scnassets */; };
 		74A601342320305D003AA56C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A601332320305D003AA56C /* ViewController.swift */; };
 		74A601372320305D003AA56C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74A601352320305D003AA56C /* Main.storyboard */; };
 		74A601392320305E003AA56C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74A601382320305E003AA56C /* Assets.xcassets */; };
@@ -22,7 +21,6 @@
 		6BD61AB98AC8FE1F8D90F2D4 /* Pods_ARKitVideoWebRTC002.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ARKitVideoWebRTC002.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		74A6012C2320305D003AA56C /* ARKitVideoWebRTC002.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitVideoWebRTC002.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74A6012F2320305D003AA56C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		74A601312320305D003AA56C /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		74A601332320305D003AA56C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		74A601362320305D003AA56C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		74A601382320305E003AA56C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 				74A6014323203369003AA56C /* Shaders.metal */,
 				74A6014423203369003AA56C /* Uitl.swift */,
 				74A6012F2320305D003AA56C /* AppDelegate.swift */,
-				74A601312320305D003AA56C /* art.scnassets */,
 				74A601332320305D003AA56C /* ViewController.swift */,
 				74A601352320305D003AA56C /* Main.storyboard */,
 				74A601382320305E003AA56C /* Assets.xcassets */,
@@ -157,7 +154,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74A601322320305D003AA56C /* art.scnassets in Resources */,
 				74A6013C2320305E003AA56C /* LaunchScreen.storyboard in Resources */,
 				74A601392320305E003AA56C /* Assets.xcassets in Resources */,
 				74A601372320305D003AA56C /* Main.storyboard in Resources */,
